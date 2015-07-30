@@ -1,3 +1,5 @@
 New test for use git commands with it...
 
-created today July 29, 2015.
+created today July 29, 2015. ( Edited row...)
+
+added a empty new line and this newline in which this text has been written...

@@ -2,3 +2,5 @@ This is a text file used to test the git command line tool.
 
 git was installed on july 29, 2015...
 this file was created on july 29, 2015 at 08:05:06
+
+This is a new line, edition at 09:46:11

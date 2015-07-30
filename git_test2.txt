@@ -1,0 +1,3 @@
+New test for use git commands with it...
+
+created today July 29, 2015.

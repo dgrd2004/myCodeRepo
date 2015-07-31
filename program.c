@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main ( void ) {
-  puts ( "This is a basic C typing" );
+  char name[] = "Tina";
+  printf ( "This is a basic C typing edited by CTO of CDRB %s", name );
   return 0;
 }
